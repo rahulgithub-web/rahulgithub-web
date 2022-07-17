@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://drive.google.com/file/d/1vUQmmEHrLOIQLdirgSJMYvakyIHJwfTf/view?usp=sharing" height="17px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media-exp2.licdn.com/dms/image/C4D03AQHIN_NDxzBRog/profile-displayphoto-shrink_200_200/0/1653201496746?e=1663804800&v=beta&t=A7TvwfCjaizHKcljDqjOuyKO4QR7P3aF4MJoWyRstA4" height="17px"/></a>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar Barnwal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
