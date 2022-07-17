@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://media-exp2.licdn.com/dms/image/C5616AQHS7tAVyb1FRg/profile-displaybackgroundimage-shrink_350_1400/0/1651395766237?e=1663804800&v=beta&t=3qrD3KB5UUIzh2OkCz4JxrThNl5tVRD0LJuUMxVDZx8" height="17px"/></a>
 
-<h1 align="center">Hi 👋, I'm Rahul Kumar Barnwal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgithub-web" alt="rahulgithub-web" /></a> </p>
 
