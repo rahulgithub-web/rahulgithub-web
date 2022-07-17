@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahulportfolio-iota.vercel.app/](https://rahulportfolio-iota.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/update/urn:li:activity:6926129142463705088/](https://www.linkedin.com/feed/update/urn:li:activity:6926129142463705088/)
+- 📝 I regularly write articles on [https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/?trackingId=eK51tGUwQHeRMnkdvoQqsA%3D%3D](https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/?trackingId=eK51tGUwQHeRMnkdvoQqsA%3D%3D)
 
 - 💬 Ask me about **NodeJS**
 
