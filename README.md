@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media-exp2.licdn.com/dms/image/C5616AQHS7tAVyb1FRg/profile-displaybackgroundimage-shrink_350_1400/0/1651395766237?e=1663804800&v=beta&t=3qrD3KB5UUIzh2OkCz4JxrThNl5tVRD0LJuUMxVDZx8" height="17px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQHS7tAVyb1FRg/profile-displaybackgroundimage-shrink_200_800/0/1651395766237?e=1669852800&v=beta&t=sNu4PydWv7llbsjIAZIi89pNNNPI5-u8hoeyOSq-xIc" height="17px"/></a>
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
