@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgithub-web" alt="rahulgithub-web" /></a> </p>
 
-- 🔭 I’m currently working as a trainee at [functionUp](https://functionup.org/)
+- 🔭 I’m currently working as a Teaching Assisstant at [functionUp](https://functionup.org/)
 
 - 🌱 I’m currently learning **Javascript, NodeJS, ExpressJS, ReactJS ,MongoDb ,Redis**
 
