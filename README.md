@@ -7,15 +7,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgithub-web&theme=onedark" alt="rahulgithub-web" /></a> </p>
 
-- 🔭 I’m currently working as a Teaching Assisstant at [functionUp](https://functionup.org/)
+- 🔭 I’m currently working as a Senior Backend Developer at [Metromax Group](https://themetromaxgroup.com/)
 
-- 🌱 I’m currently learning **Javascript, NodeJS, ExpressJS, ReactJS ,MongoDb ,Redis**
+- 🌱 I’m currently learning **Reactjs, Java, AWS EC2 Instance, Google Cloud Labs**
 
 - 👨‍💻 All of my projects are available at [https://rahulportfolio-iota.vercel.app/](https://rahulportfolio-iota.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/?trackingId=eK51tGUwQHeRMnkdvoQqsA%3D%3D](https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/?trackingId=eK51tGUwQHeRMnkdvoQqsA%3D%3D)
 
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS, Javascript**
 
 - 📫 How to reach me **rahulbarnwalonlyu2@gmail.com**
 
