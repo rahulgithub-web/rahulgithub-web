@@ -1,6 +1,6 @@
 [![@rahul16310's Holopin board](https://holopin.io/api/user/board?user=rahul16310)](https://holopin.io/@rahul16310)
 
-<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQHS7tAVyb1FRg/profile-displaybackgroundimage-shrink_200_800/0/1651395766237?e=1669852800&v=beta&t=sNu4PydWv7llbsjIAZIi89pNNNPI5-u8hoeyOSq-xIc" height="17px"/></a>
+<a href="#">![cover](https://github.com/user-attachments/assets/b0f6a99b-dade-4303-92d5-b73837472c3f)</a>
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
