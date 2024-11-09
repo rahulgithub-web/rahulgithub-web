@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FF5733&center=true&width=500&lines=Hey+there!+I'm+Rahul+Kumar+👋;Passionate+Backend+Developer+%7C+Tech+Mentor;Welcome+to+my+GitHub+Profile!+😊" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FF5733&center=true&width=500&lines=Hello+there!+I'm+Rahul+Kumar+👋;Passionate+Fullstack+Developer;Tech+Mentor+and+Writer;Welcome+to+my+GitHub+Profile+😊" alt="Typing SVG" />
 </p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center">🔰 Hacktoberfest 2024 Badges 🔰</h2>
