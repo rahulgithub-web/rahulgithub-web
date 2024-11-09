@@ -30,7 +30,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🔭 &nbsp; **Senior Backend Developer** at [Metromax Group 🌐](https://themetromaxgroup.com)
-- 🤝 &nbsp; I’m looking to collaborate on [MediQuery](https://github.com/rahulgithub-web/MediQuery))
+- 🤝 &nbsp; I’m looking to collaborate on [MediQuery](https://github.com/rahulgithub-web/MediQuery)
 - 🌱 &nbsp; I’m currently learning React | ☕ Java | ☁️ AWS EC2 | 🌐 Google Cloud Labs
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahulgithub-web?tab=repositories)
 - 🎨 &nbsp; Checkout my article [What Can We Build Using JavaScript](https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/) 👉
