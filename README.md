@@ -27,27 +27,22 @@
 
 <h2 align="center">💫 About Me 💫</h2>
 
-### 🔭 Currently Working At
-- 👨‍💻 **Senior Backend Developer** at [Metromax Group 🌐](https://themetromaxgroup.com)
-- 🛠️ **Tech Stack**: Node.js, Express.js, MongoDB, TypeScript, React.js
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🌱 What I'm Learning
-- ⚛️ React | ☕ Java | ☁️ AWS EC2 | 🌐 Google Cloud Labs
-- 🤖 AI | 🤗 Hugging Face
+- 🔭 &nbsp; **Senior Backend Developer** at [Metromax Group 🌐](https://themetromaxgroup.com)
+- 🤝 &nbsp; I’m looking to collaborate on [MediQuery](https://github.com/rahulgithub-web/MediQuery))
+- 🌱 &nbsp; I’m currently learning React | ☕ Java | ☁️ AWS EC2 | 🌐 Google Cloud Labs
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahulgithub-web?tab=repositories)
+- 🎨 &nbsp; Checkout my article [What Can We Build Using JavaScript](https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/) 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahulgithub-web/)
+- 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/1Qgq8i2VjcB5mK5qgsf_EtbVoCl1FHK8T/view)
+- 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
+- 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
+- 🌐 &nbsp; Check out my [personal Portfolio Website](https://rahulportfolio-iota.vercel.app/) for more details
+- 🚀 &nbsp; Open to working on exciting open-source projects and innovative startups
 
-### 🚀 Projects & Portfolio
-- [My Portfolio](https://rahulportfolio-iota.vercel.app/) 🌐
-- [GitHub Repos](https://github.com/rahulgithub-web) 💻
-
-### ✍️ Articles & Blogs
-- 📖 [What Can We Build Using JavaScript](https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/)
-
-### 💬 Let's Connect!
-- 📧 **Email**: rahulbarnwalonlyu2@gmail.com
-- 📄 [My Resume](https://drive.google.com/file/d/1Qgq8i2VjcB5mK5qgsf_EtbVoCl1FHK8T/view)
-
-### ⚡ Fun Fact
-- 🎨 I'm also a **Graphic Designer** with a passion for creativity!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center">💻 Tech Stack 💻</h2>
 
