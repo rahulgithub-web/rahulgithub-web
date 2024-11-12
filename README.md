@@ -40,7 +40,7 @@
 - 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/1Qgq8i2VjcB5mK5qgsf_EtbVoCl1FHK8T/view)
 - 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
 - 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
-- 🌐 &nbsp; Check out my [personal Portfolio Website](https://rahulportfolio-iota.vercel.app/) for more details
+- 🌐 &nbsp; Check out my [Personal Portfolio Website](https://rahulportfolio-iota.vercel.app/) for more details
 - 🚀 &nbsp; Open to working on exciting open-source projects and innovative startups
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
