@@ -37,7 +37,7 @@
 - 🎨 &nbsp; Checkout my article [What Can We Build Using JavaScript](https://www.linkedin.com/pulse/what-can-we-build-using-javascript-rahul-kumar-barnwal/) 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahulgithub-web/)
-- 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/1Qgq8i2VjcB5mK5qgsf_EtbVoCl1FHK8T/view)
+- 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/1iYJfM09gdSk6CHd_vB0PUgugVuWCQhFW/view?usp=drive_link)
 - 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
 - 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
 - 🌐 &nbsp; Check out my [Personal Portfolio Website](https://rahulportfolio-iota.vercel.app/) for more details
